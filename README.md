@@ -37,8 +37,8 @@
 
 
 ## Summary:
-
-
+- Positives reviews are 37% where as negative reviews are 57% which says that these reviews are negatively biased
+- We can perform additional analysis like statictics like mean,median,standard deviation etc for the star rating of vine reviews. 
 
 
 
